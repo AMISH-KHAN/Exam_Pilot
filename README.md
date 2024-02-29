@@ -1,6 +1,6 @@
 # Exam Pilot
 
-## discription
+## description
  hey folks I have created a github repo for our hackathon project, we can now make constributions in it. before making any contribution please do make sure that we have made a new branch and we are making changes on it. After making the changes and testing it we can create a pull request. 
 
  **we will change this markdown later**
